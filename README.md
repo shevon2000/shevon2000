@@ -1,4 +1,4 @@
-<img src="banner_github.jpeg" alt="GitHub Banner" width="100%" />
+<img src="banner_github.jpeg" alt="GitHub Banner" width="100%">
 
 <h1 align="center">Hi 👋, I'm Shevon</h1>
 <h3 align="center">A Full Stack Developer | Building .NET Web APIs & Python Applications for Scalable Solutions</h3>
