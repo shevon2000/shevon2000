@@ -69,7 +69,7 @@
 
 ---
 
-### 📊 GitHub Stats (Responsive to Light & Dark Mode):
+### 📊 GitHub Stats:
 
 <!-- Top Languages -->
 <p align="center">
