@@ -2,6 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Shevon</h1>
 <h3 align="center">A Full Stack Developer | Building .NET Web APIs & Python Applications for Scalable Solutions</h3>
+<h4 align="center">Bachelor of Computer Science Undergraduate 🎓</h4>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=shevon2000&label=Profile%20views&color=0e75b6&style=flat" alt="shevon2000" />
